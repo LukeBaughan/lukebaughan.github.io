@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\css",
+    "\\img",
+    "\\js",
+    "\\scss",
+    "\\vendor"
   ],
-  "SelectedNode": "\\index.html",
+  "SelectedNode": "\\scss\\_variables.scss",
   "PreviewInSolutionExplorer": false
 }
