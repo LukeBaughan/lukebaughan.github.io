@@ -1,12 +1,10 @@
 {
   "ExpandedNodes": [
-    "",
     "\\css",
     "\\img",
     "\\js",
     "\\scss",
     "\\vendor"
   ],
-  "SelectedNode": "\\css\\creative.min.css",
   "PreviewInSolutionExplorer": false
 }
