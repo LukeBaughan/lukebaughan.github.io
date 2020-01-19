@@ -562,6 +562,17 @@ pre {
     margin-left: -15px
 }
 
+.row-centered {
+    text-align: center;
+}
+
+.col-centered {
+    float: none;
+    display: inline-block;
+    text-align: left;
+    margin-right: -4px;
+}
+
 .no-gutters {
     margin-right: 0;
     margin-left: 0
